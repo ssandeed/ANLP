@@ -1,0 +1,667 @@
+sentence,label,label_idx
+"If I apply the third dose, will I have stronger side effects than the second dose?",Are booster shot side effects worse than those from the second shot?,175
+What effects do these reinforcements have?,Are booster shot side effects worse than those from the second shot?,175
+i dont think the vaccine is neccessary the basics safety measure is good enough,Are regular safety measures enough to stay healthy?,20
+"If I comply with the security measures, will I be safe?",Are regular safety measures enough to stay healthy?,20
+"This is like the flu, being cautious is enough.",Are regular safety measures enough to stay healthy?,20
+"Wearing a mask, washing your hands and taking distance is enough to be healthy",Are regular safety measures enough to stay healthy?,20
+If you practice safe measures you will stay healthy.,Are regular safety measures enough to stay healthy?,20
+Would the vaccine hurt a lot to a child?,Are some vaccines safer for younger children than others?,127
+its effectiveness in younger children is not proven,Are some vaccines safer for younger children than others?,127
+Is there a difference in side effects between the first and second shot,Are the side effects worse for the second shot,34
+"I have heard that I will get sick after the second shot, is this true",Are the side effects worse for the second shot,34
+Why does the second shot cause worse side effects than the first?,Are the side effects worse for the second shot,34
+can the vaccine contradict with other medicines?,Are there medical contraindications to the vaccines?,117
+any contraindications are medically proven or are just community assumptions to avoid vaccines,Are there medical contraindications to the vaccines?,117
+How true is it that the vaccine causes stronger complications in women?,Are women more likely to get worse side effects than men?,129
+will the side effects be more harmful to women?,Are women more likely to get worse side effects than men?,129
+do vaccines have worse side effects on women?,Are women more likely to get worse side effects than men?,129
+The vaccine could have undiscovered side effects. That they were worse than the disease.,COVID vaccines can be worse than the disease itself,18
+I dont know that I trust the vaccine goodness knows what has been put into it?,COVID vaccines can be worse than the disease itself,18
+side effects could be worse than covid,COVID vaccines can be worse than the disease itself,18
+is the vaccine safe? or is it as strong as the disease?,COVID vaccines can be worse than the disease itself,18
+This vaccine is not tested well enough.,COVID vaccines can be worse than the disease itself,18
+The media and governments have taken advantage of the pandemic to make us believe that it is more dangerous than it really is.,COVID-19 is not as dangerous as they say,0
+The facts about covid are exagerated,COVID-19 is not as dangerous as they say,0
+COVID-19 is not as dangerous as they say,COVID-19 is not as dangerous as they say,0
+OVID-19 is not as dangerous as they say,COVID-19 is not as dangerous as they say,0
+is it true that covid is not so dangerous?,COVID-19 is not as dangerous as they say,0
+If covid has gone is it still necessary to have the vax,"COVID-19 is over, why should I get the vaccine?",137
+"I don't think it's worth getting the vaccine now. The pandemic is over, isn't it?","COVID-19 is over, why should I get the vaccine?",137
+I'm not having the vaccine until I know it won't cause brain inflammation.,COVID-19 vaccines cause brain inflammation,43
+Is brain inflammation a side effect of the vaccines?,COVID-19 vaccines cause brain inflammation,43
+Is it true that the COVID-19 vaccines cause brain inflammation?,COVID-19 vaccines cause brain inflammation,43
+I'm a bit worried about whether I can catch coronavirus from getting the vaccine?,Can I get COVID-19 from the vaccine?,88
+If the Covid vaccine contains some of the virus wont I end up getting Covid?,Can I get COVID-19 from the vaccine?,88
+How is your body able to fight off the live COVID virus in the vaccine?,Can I get COVID-19 from the vaccine?,88
+Is it possible to be sick with COVID two different times?,Can I get COVID-19 twice?,126
+can I get COVID-19 twice in close periods?,Can I get COVID-19 twice?,126
+Has anyone caught Covid-19 more than once?,Can I get COVID-19 twice?,126
+Is it safe to have the second jab if I've had covid-19?,Can I get a second dose even after a COVID exposure?,35
+Is one dose enough to get me immunized or should I take one dose each time I am exposed?,Can I get a second dose even after a COVID exposure?,35
+If I have already been exposed to covid 19 can I still get a second dose?,Can I get a second dose even after a COVID exposure?,35
+Will it be possible to have the Covid vaccine alongside the flu jab?,Can I get other vaccines at the same time?,36
+Testing should be carried out to discover if we could be inoculated for flu and other diseases at the same time as having the covid jab.  It would be much more efficient and save everyone time and effort.,Can I get other vaccines at the same time?,36
+Can I take advantage of the COVID vaccine to get others that I need?,Can I get other vaccines at the same time?,36
+please tell me if I take the vaccine I would get swollen lymph nodes from the vaccine?,Can I get swollen lymph nodes from the vaccine?,135
+Can I get swollen lymph nodes from the vaccine?,Can I get swollen lymph nodes from the vaccine?,135
+"I have multiple sclerosis, can I get the vaccine?",Can I get the vaccine if I have Multiple Sclerosis?,177
+If I have various multiple sclerosis is it safe to have the vaccine or could it send me into anaphylactic shock?,Can I get the vaccine if I have Multiple Sclerosis?,177
+Does having MS mean you cant have the vaccine,Can I get the vaccine if I have Multiple Sclerosis?,177
+"I've heard that the vaccine isn't recommended for people with severe allergies, is that right?",Can I get the vaccine if I have allergies?,37
+Does having allergies mean you cant have the vaccine,Can I get the vaccine if I have allergies?,37
+Do allergies prevent me having the jab?,Can I get the vaccine if I have allergies?,37
+Am I able to get the vaccine if I have allergies?,Can I get the vaccine if I have allergies?,37
+"I have ad allergic reactions to vaccines before, is it safe for me to get the vaccine?",Can I get the vaccine if I have had allergic reactions to vaccines before?,38
+"I've had allergic reactions to vaccines in the past, will I be safe getting the COVID vaccine?",Can I get the vaccine if I have had allergic reactions to vaccines before?,38
+"the last time i had a vaccination i had an allergic reaction, i dont want it to happen again",Can I get the vaccine if I have had allergic reactions to vaccines before?,38
+Wait what Pope Francis says about the vaccine,Can I have the vaccine as a Catholic?,39
+I believe Catholics will not get the J&J vaccine as they used aborted fetuses in their development of the vaccine.,Can I have the vaccine as a Catholic?,39
+Are there any restrictions for Catholics related to the vaccine?,Can I have the vaccine as a Catholic?,39
+Has there been a study of the correlation between penicillin allergies and the vaccine,Can I have the vaccine if I'm allergic to penicillin?,40
+Is it safe to get the vaccine if I'm allergic to penicillin?,Can I have the vaccine if I'm allergic to penicillin?,40
+Can a person with penicillin allergy have the vaccine?,Can I have the vaccine if I'm allergic to penicillin?,40
+Is it safe to meet in groups after having the vaccine?,Can I meet in groups after I'm vaccinated?,101
+Is it safe to meet in groups after getting vaccinated?,Can I meet in groups after I'm vaccinated?,101
+"I am concerned that receiving the vaccine may still get sick, how safe is the vaccine that I do not get sick a second time?",Can I still get COVID even after being vaccinated?,41
+can the vaccine protect me from covid?,Can I still get COVID even after being vaccinated?,41
+Can I get COVID-19 if I have been vaccinated?,Can I still get COVID even after being vaccinated?,41
+Does the vaccine guarantee that I can never get covid?,Can I still get COVID even after being vaccinated?,41
+Will I get sick if my spouse has covid but I had the vaccine?,Can I still get COVID even after being vaccinated?,41
+The COVID-19 vaccine prevents me from getting sick or it is only so as not to have very serious symptoms,Can I still get COVID even after being vaccinated?,41
+am I safe forever from COVID once I get the vaccine?,Can I still get COVID even after being vaccinated?,41
+Do pain relievers have any adverse reactions to the vaccine?,Can I take a pain reliever when I get vaccinated?,84
+If flu like symptoms are a side-effectof  having having the vaccine would taking a pain-reliever before stop this from happening.,Can I take a pain reliever when I get vaccinated?,84
+Will pain reliever after receiving the vaccine make the vaccine ineffective?,Can I take a pain reliever when I get vaccinated?,84
+children need vaccination?,Can children get the vaccine?,90
+Is it safe for children to get vaccinated?,Can children get the vaccine?,90
+Since kids are carriers of the virus but dont get sick shouldnt they be the first to be vaccinated?,Can children get the vaccine?,90
+up to what age can it be administered in adults,Can children get the vaccine?,90
+up to what age patients can be vaccinated,Can children get the vaccine?,90
+Would my children go to school without a vaccine would it be bad?,Can my kids go back to school without a vaccine?,108
+I am concerned that my children have not yet been vaccinated and may open schools and they cannot attend,Can my kids go back to school without a vaccine?,108
+It would be safe to go back to school if everyone is vaccinated,Can my kids go back to school without a vaccine?,108
+What danger are my children in if they attend school without being vaccinated?,Can my kids go back to school without a vaccine?,108
+Will my children be able to go back to school without getting vaccinated?,Can my kids go back to school without a vaccine?,108
+"If I'm vaccinated, would my newborn be protected against COVID-19?",Can my newborn become immune to COVID-19 if I'm vaccinated?,136
+"there is a possibility that if I am vaccinated before giving birth, my child will be immune to covid.",Can my newborn become immune to COVID-19 if I'm vaccinated?,136
+"If I am going to give birth and get vaccinated, my child will be immune to COVID",Can my newborn become immune to COVID-19 if I'm vaccinated?,136
+Isnt the flu vaccine about the same as the Covid vaccine meaning I dont need both?,Can other vaccines protect me from COVID-19?,31
+Surely having had the flu vaccine is cover enough?,Can other vaccines protect me from COVID-19?,31
+Can I have a different older vaccine to protect me from covid?,Can other vaccines protect me from COVID-19?,31
+Will vaccines I've had in the past work against COVID?,Can other vaccines protect me from COVID-19?,31
+"I got a flu vaccine, do I need a Covid one too?",Can other vaccines protect me from COVID-19?,31
+The Covid-19 vaccine is specific to that virus you don't expect the MMR jab to protect you from flu do you.,Can other vaccines protect me from COVID-19?,31
+Won’t the vaccine have to be reformulated to include all the newest strains of the virus?,Can we change the vaccine quickly if the virus mutates?,87
+Is it possible to quickly alter the vaccine if the virus mutates?,Can we change the vaccine quickly if the virus mutates?,87
+id like to have a choice on which vaccine i get,Can we choose which vaccine we want?,91
+"I’ve heard bad things about the AstraZeneca vaccine, is there a way to avoid this one?",Can we choose which vaccine we want?,91
+im not sure i want just any available vaccine,Can we choose which vaccine we want?,91
+Can you mix the vaccines?,Can you mix the vaccines?,42
+Do you need to get the same brand vaccine?,Can you mix the vaccines?,42
+I had the Pfizer vaccine.  Can I get the Johnson and Johnson one now?,Can you mix the vaccines?,42
+Has any volunteer died due to the negative effects of the vaccine?,Did a volunteer in the Oxford trial die?,125
+Does anyone know if volunteers have died?,Did a volunteer in the Oxford trial die?,125
+What is the cause of death of the volunteer who died in the oxford trial?,Did a volunteer in the Oxford trial die?,125
+is it true that the j&j vaccine killed a woman?,Did one woman die after getting the J&J vaccine?,138
+Did that woman really die because she had the J&J shot?,Did one woman die after getting the J&J vaccine?,138
+Do I really need the vaccine now that the pandemic is over?,Do I need the vaccine?,120
+"I heard that Covid-19 is just like the flu now, do I really need to bother getting the vaccine?",Do I need the vaccine?,120
+Can I stop wearing a mask and social distancing now I've been vaccinated?,Do I need to change my masking and social distancing practices depending on which COVID-19 vaccine I got?,113
+"If I have the Pfizer vaccine, will I still need to social distance?",Do I need to change my masking and social distancing practices depending on which COVID-19 vaccine I got?,113
+"When I am vaccinated, can I return to my normal life?",Do I need to continue safety measures after getting the vaccine?,1
+should i keep distance ?,Do I need to continue safety measures after getting the vaccine?,1
+Do vaccinated people need to maintain social distancing with friends and family?,Do I need to continue safety measures after getting the vaccine?,1
+"I've been vaccinated, am I required to still wear a mask?",Do I need to continue safety measures after getting the vaccine?,1
+Should I rest once I get the vaccine?,Do I need to continue safety measures after getting the vaccine?,1
+It is necessary to continue using masks and the rest if they have already given me the vaccine,Do I need to continue safety measures after getting the vaccine?,1
+"It is scary to go out without a mask, even if we are vaccinated.",Do I need to continue safety measures after getting the vaccine?,1
+What are the qualifications to get the vaccine and do I qualify?,Do I qualify for the vaccine?,32
+I have cancer but that is not listed as a priority to get a shot,Do I qualify for the vaccine?,32
+They won't let me get vaccinated yet,Do I qualify for the vaccine?,32
+Who can get the vaccine?,Do I qualify for the vaccine?,32
+What reasons do you have to give to be eligible for the vaccine.,Do I qualify for the vaccine?,32
+When can I get vaccinated?,Do I qualify for the vaccine?,32
+Do children receive the same dose of Pfizer as adults?,Do children receive the same dose of Pfizer as adults?,178
+Should 1-year-olds be vaccinated?,Do children receive the same dose of Pfizer as adults?,178
+people can become magnetic get vaccinated against covid,Do people become magnetic after getting vaccinated?,139
+Why do people become magnetic after getting vaccinated?,Do people become magnetic after getting vaccinated?,139
+Does the vaccine contain something that would make metal stick to your body,Do people become magnetic after getting vaccinated?,139
+It is true that people become magnetic after getting vaccinated?,Do people become magnetic after getting vaccinated?,139
+why am I magnetic after geting the vaccine?,Do people become magnetic after getting vaccinated?,139
+Is it right that the covid19 vaccine will mean that I will get Bell's palsy?,Do the COVID-19 vaccines cause Bell's palsy?,44
+I have read on facebook that i can get Bell's palsy from the vaccine.  Is that true,Do the COVID-19 vaccines cause Bell's palsy?,44
+I've heard one of the side effects of the vaccine has caused other people to get Bells Palsy and I'm really worried,Do the COVID-19 vaccines cause Bell's palsy?,44
+Will the preservatives in the vaccine harm me?,"Do the mRNA vaccines contain preservatives, like thimerosal?",45
+Is there a problem if the vaccine contains preservatives?,"Do the mRNA vaccines contain preservatives, like thimerosal?",45
+Do the mRNA vaccines contain preservatives such as a local antiseptic for abrasions and minor cuts?,"Do the mRNA vaccines contain preservatives, like thimerosal?",45
+Will the vaccine work for obese people?,Do the vaccines work in obese people?,46
+does being obese effect the vaccine?,Do the vaccines work in obese people?,46
+"If the patient has any existing heart disease like obese people, what would be the reaction to the vaccine?",Do the vaccines work in obese people?,46
+please Do vaccinated people need to quarantine if exposed to COVID-19?,Do vaccinated people need to quarantine if exposed to COVID-19?,160
+"If I get vaccinated, should I quarantine myself?",Do vaccinated people need to quarantine if exposed to COVID-19?,160
+is this vaccine helping with the mutations of the virus?,Do vaccines work against the mutated strains of COVID-19?,25
+the vaccine will not be supportive for possible virus mutations,Do vaccines work against the mutated strains of COVID-19?,25
+Will the virus stop mutating if we all have the vaccine,Do vaccines work against the mutated strains of COVID-19?,25
+the vaccine isn't working on the new COVID mutations,Do vaccines work against the mutated strains of COVID-19?,25
+does the vaccine covers up any new mutation of COVID 19?,Do vaccines work against the mutated strains of COVID-19?,25
+the vaccine is effective against new strains of the virus,Do vaccines work against the mutated strains of COVID-19?,25
+Will I need a COVID test before I get the vaccine?,Do you have to be tested for COVID before you vaccinated?,47
+Is a COVID test required before you get the vaccine?,Do you have to be tested for COVID before you vaccinated?,47
+Do I need to have antibody testing?,Do you have to be tested for COVID before you vaccinated?,47
+"And what about the social security number, is it necessary?",Do you need a social security number to get a COVID-19 vaccine?,105
+"I was told that you need a social security number to get a COVID-19 vaccine, is that true or just a rumor?",Do you need a social security number to get a COVID-19 vaccine?,105
+Will my town receive the covid vaccine?,Do you need to be a U.S. citizen to get a COVID-19 vaccine?,106
+"I'm not a U.S. citizen, can I still get the vaccine?",Do you need to be a U.S. citizen to get a COVID-19 vaccine?,106
+Will foreigners be vaccinated?,Do you need to be a U.S. citizen to get a COVID-19 vaccine?,106
+Is there any scientific backing about the vaccine being linked to autism?,Does the COVID-19 vaccine cause autism?,164
+I've heard one of the side effects of the vaccine has caused other people to get autism and I'm really worried,Does the COVID-19 vaccine cause autism?,164
+Should I be worried about the reports of there being a link between the Covid-19 vaccines and autism?,Does the COVID-19 vaccine cause autism?,164
+Did people really get Rare Nerve Syndrome from the Johnson & Johnson vaccine or are people just scare mongering?,Does the Johnson and Johnson vaccine cause Rare Nerve Syndrome?,162
+What is the relationship of the Johnson and Johnson vaccine and rare nerve syndrome?,Does the Johnson and Johnson vaccine cause Rare Nerve Syndrome?,162
+I am likely to have heart palpitations or issues if I have the Pfizer vaccine?,Does the Pfizer vaccine cause heart problems?,115
+Do people get heart problems after having the Pfizer vaccine?,Does the Pfizer vaccine cause heart problems?,115
+Does the Pfizer vaccine cause myocarditis?,Does the Pfizer vaccine cause myocarditis?,114
+can I use the Pfizer vaccine?,Does the Pfizer vaccine cause myocarditis?,114
+impotence can be caused by the covid vaccine.,Does the vaccine cause impotence?,165
+is it true you can get erectile dysfunction from the vaccine,Does the vaccine cause impotence?,165
+I have read on facebook that i can get erectile dysfunction from the vaccine.  Is that true,Does the vaccine cause impotence?,165
+Is the incidence of erectile dysfunction in people who have had the vaccine higher than in the general population?,Does the vaccine cause impotence?,165
+I'm a vegan and I'm concerned I can't have the vaccine?,Does the vaccine contain animal products?,48
+Does the vaccine have animal hormones?,Does the vaccine contain animal products?,48
+"What animal products, if any, are in the vaccine?",Does the vaccine contain animal products?,48
+Will the vaccine contain an ingredient such as an egg?,Does the vaccine contain eggs?,140
+do eggs present in the vaccine?,Does the vaccine contain eggs?,140
+How does injecting yourself with a live virus help to keep you immune from it?,Does the vaccine contain live COVID virus?,49
+Is there any live covid virus in the vaccine?,Does the vaccine contain live COVID virus?,49
+Am I being injected with a live virus?,Does the vaccine contain live COVID virus?,49
+Would the vaccine harm my unborn baby if I was pregnant?,Does the vaccine impact pregnancy?,50
+Ive heard you cant have the vaccine if you are pregnant,Does the vaccine impact pregnancy?,50
+What risks are there to my baby if I'm pregnant?,Does the vaccine impact pregnancy?,50
+Is it safe for a pregnant woman to get the vaccine?,Does the vaccine impact pregnancy?,50
+Are there risks of abortion in infected pregnant people?,Does the vaccine impact pregnancy?,50
+"it is safe in pregnant women, children and people with any serious illness",Does the vaccine impact pregnancy?,50
+Should pregnant women avoid the covid vaccine?,Does the vaccine impact pregnancy?,50
+"I've heard that the vaccines only protect against getting seriously ill or dying from covid, is that right?",Does the vaccine prevent transmission?,111
+Will the Covid vaccine stop me giving the virus to my family?,Does the vaccine prevent transmission?,111
+"After recovering from the virus, can I infect someone else?",Does the vaccine prevent transmission?,111
+Does the COVID-19 vaccine prevent the virus from being transferred?,Does the vaccine prevent transmission?,111
+is the vaccine to decrease transmission?,Does the vaccine prevent transmission?,111
+Is experiencing no side effectives equivalent to the vaccine not working?,Does the vaccine work if I do not experience any side effects?,51
+Are any side effects necessary?,Does the vaccine work if I do not experience any side effects?,51
+"I have no side effects, does that mean the vaccine didn't work?",Does the vaccine work if I do not experience any side effects?,51
+where i get a vaccine?,How can I get the vaccine?,95
+Tell me how I can find out if I need to get the vaccine and if it's necessary.,How can I get the vaccine?,95
+"Do I have to book an appointment to get the vaccine, or can I just turn up?",How can I get the vaccine?,95
+where can I go to get the vaccine?,How can I get the vaccine?,95
+where can i get vaccinated?,How can I get the vaccine?,95
+At times I wonder if it will be very difficult for me to find this vaccine?,How can I get the vaccine?,95
+Am I eligible for the vaccine?,How can I get the vaccine?,95
+Are there things I can do to stay safe until I'm vaccinated?,How can I stay safe until I'm vaccinated?,52
+"It sounds like it will be a long time before I can be vaccinated, how can I stay safe in the meantime?",How can I stay safe until I'm vaccinated?,52
+How can I stay safe until I'm vaccinated?,How can I stay safe until I'm vaccinated?,52
+What are the most prevalent side effects of vaccines?,How common are vaccine side effects?,172
+Vaccine side effects: how common are they?,How common are vaccine side effects?,172
+How do I convince my family and friends to get the COVID-19 vaccine?,How do I convince my family and friends to get the COVID-19 vaccine?,130
+"my parents don't want to get the vaccine and that worries me, what should I do to change their mind?",How do I convince my family and friends to get the COVID-19 vaccine?,130
+What should I do to get my family and friends the COVID-19 vaccine?,How do I convince my family and friends to get the COVID-19 vaccine?,130
+I can I get assurance that I am receiving a authorized vaccine?,"How do I know I'm getting a legitimate, authorized vaccine?",53
+What should I check to make sure I get an authorized vaccine?,"How do I know I'm getting a legitimate, authorized vaccine?",53
+Where do I get vaccinated that is safe?,"How do I know I'm getting a legitimate, authorized vaccine?",53
+Hello.Is this vaccine authorized by the World Health Organization?,"How do I know I'm getting a legitimate, authorized vaccine?",53
+where take the vaccine?,How do I protect myself indoors?,103
+"When I'm inside a building, how do I stay safe and not catch Covid-19?",How do I protect myself indoors?,103
+how do i protect myself from home?,How do I protect myself indoors?,103
+Who do I tell about a side-effect?,How do I report an adverse reaction or side-effect,54
+Who collects the information if you experience side effects to the vaccine.,How do I report an adverse reaction or side-effect,54
+Who needs to know if the vaccine gives me an illness?,How do I report an adverse reaction or side-effect,54
+What is the use of getting the vaccine if it is not proven to stop the new omciron variant,How effective is the vaccine against the Omicron variant?,180
+Will new omicron be able to beat the vaccine,How effective is the vaccine against the Omicron variant?,180
+Will the vaccine help with the new omciron of the virus or is it a waste of time to get?,How effective is the vaccine against the Omicron variant?,180
+"If this vaccine does not help against the new omicron that the virus may have, I would be concerned since it is not known when it may mutate",How effective is the vaccine against the Omicron variant?,180
+the vaccine isn't working on the new COVID omciron,How effective is the vaccine against the Omicron variant?,180
+the vaccine will not be supportive for possible virus omciron variant,How effective is the vaccine against the Omicron variant?,180
+will this vaccine help with new omricon variant of the virus?,How effective is the vaccine against the Omicron variant?,180
+Will the vaccine stop me getting ill if I catch one of the new omricon variant of the virus?,How effective is the vaccine against the Omicron variant?,180
+what mechanism use the covid19 vaccine,How is the COVID-19 vaccine different than others?,141
+How much difference is there between the covid 19 vaccine and the others?,How is the COVID-19 vaccine different than others?,141
+covid-19 vaccines use mRna technology: how can you compare it to the other vaccines used so far?,How is the COVID-19 vaccine different than others?,141
+"If I had COVID-19, how long am I immune from it?",How long am I immune from COVID-19 if I had the virus?,128
+"After having Covid, how long will I be immune for?",How long am I immune from COVID-19 if I had the virus?,128
+"If I get infected with Covid, will I get immunity?",How long am I immune from COVID-19 if I had the virus?,128
+How many doses are necessary and how often should I take them?,How long do I have to wait between doses?,55
+What is the waiting time between vaccine doses?,How long do I have to wait between doses?,55
+What is the optimal waiting period between vaccine doses.,How long do I have to wait between doses?,55
+Will I be protected for only three months with the jab?,How long does the immunity from the vaccine last?,92
+"I’ve heard the vaccine only works for 6 months, is that accurate?",How long does the immunity from the vaccine last?,92
+"Will the vaccine protect me forever, if not how long will immunity last?",How long does the immunity from the vaccine last?,92
+Will I have to get a yearly vaccine like the flu shot?,How long does the immunity from the vaccine last?,92
+Do I need a vaccine every 3 months?,How long does the immunity from the vaccine last?,92
+How many days does a person with covid-19 last?,How long does the immunity from the vaccine last?,92
+Will I have to wait a long time after having the vaccine for it to be effective?,How long until I will be protected after taking the vaccine?,2
+How long is immunity active?,How long until I will be protected after taking the vaccine?,2
+is i take this vaccine should i be protected after taking the vaccine?,How long until I will be protected after taking the vaccine?,2
+Will I have to wait long to be protected after having the vaccine?,How long until I will be protected after taking the vaccine?,2
+how long will the covid vaccine last in my body,How long until I will be protected after taking the vaccine?,2
+Will one dose be effective?,How many doses do I need?,56
+Is it ok to only get one dose?,How many doses do I need?,56
+how many doses I need,How many doses do I need?,56
+how many times should I get the vaccine?,How many doses do I need?,56
+how many times should I give the vaccine,How many doses do I need?,56
+Is one dose of the vaccine as effective as two?,How many doses do I need?,56
+how many dosis do i need?,How many doses do I need?,56
+how many people were vaccinated?,How many people already got the vaccine?,3
+how many people take this vaccine?,How many people already got the vaccine?,3
+number of vaccinated,How many people already got the vaccine?,3
+how many people have already been vaccinated?,How many people already got the vaccine?,3
+how many children have died from covid?,How many people died from COVID-19?,118
+how many people covid-19 killed?,How many people died from COVID-19?,118
+they are asking too much for the vaccine,How much will I have to pay for the vaccine,11
+who can i get  the vaccine for free,How much will I have to pay for the vaccine,11
+way to have this vaccine  for free,How much will I have to pay for the vaccine,11
+Who protects people who are not insured?,How much will I have to pay for the vaccine,11
+The vaccine will cost too much.,How much will I have to pay for the vaccine,11
+I'm not insured for this,How much will I have to pay for the vaccine,11
+I am uninsured and have no money who can give ne the vaccine at no charge?,How much will I have to pay for the vaccine,11
+how much it costs to get the vaccine,How much will I have to pay for the vaccine,11
+"I had Covid ,when should I take Vaccine ?",How soon after I've had COVID-19 can I get the vaccination?,142
+after how many days of CoVid positive test can we have vaccination?,How soon after I've had COVID-19 can I get the vaccination?,142
+I am concerned that the vaccine was very poorly studied which is risky for patients,How was the vaccine tested?,57
+"What process did the vaccine go through before use, was it tested?",How was the vaccine tested?,57
+Did the vaccine go through all the normal rigorous testing procedures?,How was the vaccine tested?,57
+Have scientists studied the effects that the vaccine has on our DNA?,I am afraid the vaccine will change my DNA,4
+I am afraid of how the vaccine will affect me,I am afraid the vaccine will change my DNA,4
+The vaccine will attach to my dna and change it.,I am afraid the vaccine will change my DNA,4
+I feel like the vaccine wasn't researched enough and that we are all part of a big experiment that nobody knows the outcome of.,I am concerned I will be a guinea pig,6
+I have reservations about the vaccine I think they are just doing research on us,I am concerned I will be a guinea pig,6
+Is it safe to get vaccinated or am I an experiment?,I am concerned I will be a guinea pig,6
+I understand that given the high rates of death and economic catastrophy taking place in many countries because of the Covi-19 virus something needed to be done quickly.  However I feel that people have taken the place of lab rats because of the introduction and use of these new vaccines.,I am concerned I will be a guinea pig,6
+I am concerned the vaccine hasn't been tested enough?,I am concerned I will be a guinea pig,6
+The vaccine might react badly with the medication I am allready taking,I am concerned about getting the vaccine because of my medications.,58
+Is it OK for me to get the vaccine if I am on medication for rheumatoid arthritis?,I am concerned about getting the vaccine because of my medications.,58
+I already take a lot of other medications.,I am concerned about getting the vaccine because of my medications.,58
+can i get vaccinated if i suffer from diabetes?,I am concerned getting the vaccine because I have a pre-existing condition,5
+"Due to the rush to develop the vaccine, there was not enough time to test it in all special cases.",I am concerned getting the vaccine because I have a pre-existing condition,5
+I am afraid that the vaccine will make some other disease worse in me,I am concerned getting the vaccine because I have a pre-existing condition,5
+I do not know what effects the vaccine can cause on me since I suffer from a permanent condition,I am concerned getting the vaccine because I have a pre-existing condition,5
+Will the vaccine affect my pre-existing condition,I am concerned getting the vaccine because I have a pre-existing condition,5
+The government has not told us everything necessary regarding the vaccine so it would be normal not to trust 100% in the efficacy of the vaccine.,I am not sure if I can trust the government,8
+How can I trust the government when so much of what they have said about their handling of the pandemic has turned out to be untrue?,I am not sure if I can trust the government,8
+I think the government hides many truths from people. Sometimes that is harm to a nation,I am not sure if I can trust the government,8
+the government always lies,I am not sure if I can trust the government,8
+I don't think the government is trustworthy,I am not sure if I can trust the government,8
+The vaccine causes people to have blood clots I could be affected.,I am worried about blood clots as a result of the vaccine,96
+I am worried about blood clots as a result of the vaccine,I am worried about blood clots as a result of the vaccine,96
+I am concerned about the side effects of blood clots with the Astra Zeneca vaccine should I still go ahead and have it?,I am worried about blood clots as a result of the vaccine,96
+I've read some people have had blood clots after the vaccine,I am worried about blood clots as a result of the vaccine,96
+I do not have any conditions so I consider that I should not get vaccinated,I am young and healthy so I don't think I should vaccinate,9
+"for my youth, I see no need to vaccinate",I am young and healthy so I don't think I should vaccinate,9
+if i feel healthy should i take the vaccinate?,I am young and healthy so I don't think I should vaccinate,9
+"I am in my youth stage and without any disease, the vaccine is not necessary for me",I am young and healthy so I don't think I should vaccinate,9
+Young athletes do not need to be vaccinated,I am young and healthy so I don't think I should vaccinate,9
+"I'm in good health, so no vaccine is needed",I am young and healthy so I don't think I should vaccinate,9
+I dont think i trust the vaccine,I distrust this vaccine,10
+I am afraid to get the vaccine should I trust?,I distrust this vaccine,10
+"I distrust this vaccine, I don't know what could happen",I distrust this vaccine,10
+I really dont trust this vaccine has it even been tested properly?,I distrust this vaccine,10
+The vaccine came out to quickly to be reliable.,I distrust this vaccine,10
+I think it is not necessary to get vaccinated,I don't think the vaccine is necessary,12
+"I’m young and have no health problems, I don’t think I need a vaccine.",I don't think the vaccine is necessary,12
+I don't think the vaccine is necessary,I don't think the vaccine is necessary,12
+is it advisable to get the vaccine?,I don't think the vaccine is necessary,12
+Companies that produce vaccines are not to be trusted,I don't trust the companies producing the vaccines,13
+information about the companies  that produces this vaccine,I don't trust the companies producing the vaccines,13
+companies that make vaccines are not trustworthy,I don't trust the companies producing the vaccines,13
+I have no confidence in the companies that produced the vaccine,I don't trust the companies producing the vaccines,13
+I cannot trust the companies in charge of producing this vaccine.,I don't trust the companies producing the vaccines,13
+where did pfizer created this vaccine?,I don't trust vaccines if they're from China or Russia,33
+Is there a way to find out if the vaccine I'm getting is of unreliable origins?,I don't trust vaccines if they're from China or Russia,33
+Are the vaccines from a reliable source?,I don't trust vaccines if they're from China or Russia,33
+Some of the vaccines are of unreliable origins,I don't trust vaccines if they're from China or Russia,33
+"Who's to say that other countries, like Russia and China, aren't interfering with vaccines and putting harmful things into them?",I don't trust vaccines if they're from China or Russia,33
+Can vaccines be trusted if they are from China or Russia?,I don't trust vaccines if they're from China or Russia,33
+Some of the vaccines we don't know where they come from,I don't trust vaccines if they're from China or Russia,33
+I don't trust vaccines if they're from China or Russia,I don't trust vaccines if they're from China or Russia,33
+I am really reluctant for my children to get the innoculation,I don't want my children to get the vaccine,14
+Can my children be vaccinated?,I don't want my children to get the vaccine,14
+I don't feel safe for my kids to have the vaccine.,I don't want my children to get the vaccine,14
+I absolutely refuse to have my children receive the vaccine because of any unfavorable reaction.,I don't want my children to get the vaccine,14
+I do not want to be monitored.  How can I stop this,I don't want the v-safe app monitoring or tracking me,59
+I don't want a governmental department such as the CDC tracking me after I have had the Covid vaccine.,I don't want the v-safe app monitoring or tracking me,59
+Does the v-safe app monitor or track me?,I don't want the v-safe app monitoring or tracking me,59
+"Why do I have to give my personal information when I get the vaccine, surely my medical history is nobody's business but my own?",I don't want to share my personal information,60
+Unless if it is life or death I'm not telling anyone my personal information.,I don't want to share my personal information,60
+I do not want to share any personal data.,I don't want to share my personal information,60
+The vaccine has not been tested here.,I think the vaccine was not tested on my community,15
+I think the vaccine was not tested in my community and it should be,I think the vaccine was not tested on my community,15
+"Were vaccines tested on all sexes, ages and races before being approved",I think the vaccine was not tested on my community,15
+this vaccine was not implemented in my city,I think the vaccine was not tested on my community,15
+the vaccine has not been tested in my community as it is not ready,I think the vaccine was not tested on my community,15
+People are told to wait after getting the shot to see if they get sick.  If doctors are concerned about this shouldn't I be too,I'm concerned the vaccine will make me sick.,7
+I am afraid to get some serious side effects from the vaccine,I'm concerned the vaccine will make me sick.,7
+Will it have deadly side effects?,I'm concerned the vaccine will make me sick.,7
+does it affect our health,I'm concerned the vaccine will make me sick.,7
+I am concerned that the vaccine will make me sick due to its side effects and it is unknown if they can be long-term.,I'm concerned the vaccine will make me sick.,7
+what are the reactions of the vaccine?,I'm concerned the vaccine will make me sick.,7
+I am concerned that the vaccine is not a cure but another virus,I'm concerned the vaccine will make me sick.,7
+I will be vaccinated,I'm going to get vaccinated,132
+thank you after looking for my son to go get vaccinated,I'm going to get vaccinated,132
+What is the effectiveness of the COVID-19 vaccine?,I'm not sure it is effective enough,16
+How do I know if the vaccine is really what is keeping people safe of if they have just built their own immunity?,I'm not sure it is effective enough,16
+is it useful ?,I'm not sure it is effective enough,16
+I have heard that you can still get covid even though you have had the vaccine,I'm not sure it is effective enough,16
+I dont think the vaccine works as well as they say it does,I'm not sure it is effective enough,16
+at first it will not be effective enough and little by little they will improve it,I'm not sure it is effective enough,16
+I heard that the vaccine only covers one strand of COVID and not all the new ones that have recently been emerging.,I'm not sure it is effective enough,16
+Should I get the vaccine if I am sick with Covid?,I'm still experiencing COVID symptoms even after testing negative – should I still take the vaccine?,89
+"Should I get the vaccine, If I'm experiencing COVID symptoms but tested negative?",I'm still experiencing COVID symptoms even after testing negative – should I still take the vaccine?,89
+"If I feel sick, is it safe to still get vaccinated?",I'm still experiencing COVID symptoms even after testing negative – should I still take the vaccine?,89
+I want to wait till we see how others do.,I'm waiting to see how it affects others,17
+There have not been enough people vaccinated to make sure the Covid vaccine is safe so I will wait.,I'm waiting to see how it affects others,17
+I would like to know the side effects,I'm waiting to see how it affects others,17
+I want to hear how many people getting the vaccine have side effects before I get mine,I'm waiting to see how it affects others,17
+I want to make sure how this vaccine affects people,I'm waiting to see how it affects others,17
+"I am vaccinated, and I live with a weak person, what should I do?","If I live with an immuno-compromised individual, do I still need to wear a mask outdoors if I'm vaccinated?",110
+"If I live with a person whose immune system fails, I still have to cover my face outdoors even if I am vaccinated.
+?","If I live with an immuno-compromised individual, do I still need to wear a mask outdoors if I'm vaccinated?",110
+"If I live with an immuno-compromised individual, do I still need to wear a mask outdoors if I'm vaccinated?","If I live with an immuno-compromised individual, do I still need to wear a mask outdoors if I'm vaccinated?",110
+The vaccine is not approved for children and i am breast feeding my new born so wouldnt it be safest to wait to get it until she is done breast feeding?,Is breastfeeding safe with the vaccine,61
+"I've heard that the vaccine has not been tested to see if it safe for breastfeeding women, is that right?",Is breastfeeding safe with the vaccine,61
+Will the vaccine pass through my breast milk to my newborn?,Is breastfeeding safe with the vaccine,61
+I think it would hurt a lot to get vaccinated,Is getting vaccinated painful?,133
+"This uncomfortable feeling in your arm, along with all the other systemic and local side effects, are signs that your immune system is working",Is getting vaccinated painful?,133
+Is it painful to get vaccinated?,Is getting vaccinated painful?,133
+getting vaccinated generates any kind of pain?,Is getting vaccinated painful?,133
+"Wear a mask that covers your nose and mouth. Masks are required on airplanes, buses, trains, and other forms of public transportation arriving or departing from the United States and traveling across the country and at U.S. transportation hubs such as airports and stations.",Is it okay for me to travel internationally if I'm vaccinated?,107
+Will I be allowed to interact with other people outside my country?,Is it okay for me to travel internationally if I'm vaccinated?,107
+are there dangers in having my baby vaccinated,Is it safe for my baby to get the vaccine?,124
+"My baby is so tiny, I'm scared to give her the vaccine in case it makes her sick.",Is it safe for my baby to get the vaccine?,124
+should i get my baby vaccinated,Is it safe for my baby to get the vaccine?,124
+Can the vaccine cause serious reactions in adolescents?,Is it safe for my teen to get the vaccine?,143
+it won't be dangerous to my teen right ?,Is it safe for my teen to get the vaccine?,143
+is the vaccine safe for teens?,Is it safe for my teen to get the vaccine?,143
+Will I be able to return to the gym and still be safe if I have had the vaccine,Is it safe to go to the gym indoors if I'm vaccinated?,102
+How safe would it be to go to the gym once I get vaccinated?,Is it safe to go to the gym indoors if I'm vaccinated?,102
+Is it safe to go to the gym indoors if I'm vaccinated?,Is it safe to go to the gym indoors if I'm vaccinated?,102
+Can I give my children the Delta vaccine?,Is the Delta variant more dangerous for kids?,167
+Are kids safe to take Delta Variant?,Is the Delta variant more dangerous for kids?,167
+Delta variant more dangerous for kids?,Is the Delta variant more dangerous for kids?,167
+How do I know that the J&J vaccine is as effective as the other covid vaccines?,Is the Johnson & Johnson vaccine less effective than the others?,62
+Is the Johnson & Johnson vaccine as effective as the other vaccines?,Is the Johnson & Johnson vaccine less effective than the others?,62
+"I've heard that the Johnson & Johnson vaccine is not as effective as the others, should I still take it, or wait until one of the better ones becomes available?",Is the Johnson & Johnson vaccine less effective than the others?,62
+"Which vaccine is the least effective, is it the Johnson and Johnson jab?",Is the Johnson & Johnson vaccine less effective than the others?,62
+Will the Pfizer vaccine prevent the disease in young people?,Is the Pfizer vaccine safe for young men?,122
+Is the Pfizer vaccine safe for young men?,Is the Pfizer vaccine safe for young men?,122
+"My mom has other health problems, how do I know that it's safe for her to get the booster shot?",Is the booster shot dangerous?,176
+should i trust in this booster shot ?,Is the booster shot dangerous?,176
+is the booster safe enough?,Is the booster shot dangerous?,176
+the booster can be dangerous,Is the booster shot dangerous?,176
+Who assures us that the booster is safe if something goes wrong?,Is the booster shot dangerous?,176
+The booster shot is not safe,Is the booster shot dangerous?,176
+The booster is dangerous?,Is the booster shot dangerous?,176
+Is the booster the same as the original vaccine in everything?,Is the booster the same as the original vaccine?,169
+Is the booster and the original vaccine different?,Is the booster the same as the original vaccine?,169
+what are the differences between the booster and the original vaccine?,Is the booster the same as the original vaccine?,169
+it is true that it is approved,Is the vaccine FDA approved?,158
+"FDA employees, scientists and career physicians determine whether COVID-19 vaccines are licensed after extensive analysis and evaluation of data related to safety, efficacy, and manufacturing quality.",Is the vaccine FDA approved?,158
+will the vaccine FDA be approved right now this month?,Is the vaccine FDA approved?,158
+FDA clearance implies that it can be distributed.,Is the vaccine FDA approved?,158
+"I am concerned that the vaccine will react negatively in people who follow a Kosher diet, there is no evidence in this regard.",Is the vaccine Kosher?,64
+I am concerned about the components of the vaccine and that it is safe for Jews.,Is the vaccine Kosher?,64
+Has the vaccine been approved for the Jewish religion,Is the vaccine Kosher?,64
+Is there a vaccine that was made to meet halal protocols?,Is the vaccine halal?,63
+"I am concerned if the vaccine is halal, is it?",Is the vaccine halal?,63
+Would the vaccine be permissible to Muslims?,Is the vaccine halal?,63
+Will there be monitoring of the vaccine for safety?,Is there vaccine safety monitoring?,65
+What type of safety monitoring is there for the vaccine?,Is there vaccine safety monitoring?,65
+If the vaccine isn't safe how would we know?,Is there vaccine safety monitoring?,65
+children are as effective as adults with pfizer?,Is this Pfizer vaccine equally effective in kids as it is in adults?,144
+Does the pfizer vaccine work the same regardless of age?,Is this Pfizer vaccine equally effective in kids as it is in adults?,144
+The clinical trials of the vaccine were rushed so nobody has any idea of the long term effects of the vaccine.,Long term side-effects were not researched enough,19
+"I consider that it is very little time to implement vaccines, more research is needed",Long term side-effects were not researched enough,19
+"I already mentioned it before, we do not know the side effects that this vaccine may cause, particularly at that moment where I am vaccinated, I will feel and not only me but everyone who thinks that we are guinea pigs waiting for the best of that vaccine",Long term side-effects were not researched enough,19
+"long-term effects, because they were not sufficiently investigated",Long term side-effects were not researched enough,19
+"In the long term, its effects still lack things to investigate and process",Long term side-effects were not researched enough,19
+"Other vaccines have caused negative long term health problems, what makes us think that this one, which was rushed, is any safer?",Other vaccines have caused long-term health problems,66
+Does anybody know if the vaccine could have potential long term side effects?,Other vaccines have caused long-term health problems,66
+past evidence shows vaccines cause bad health concerns,Other vaccines have caused long-term health problems,66
+if I am immunocompromised will the vaccine work for me?,Should I get the COVID-19 vaccine if I am immunocompromised,67
+"I am concerned that due to the haste with which the vaccine was developed, it has not been studied in depth whether it could have negative effects in patients with compromised immune systems.",Should I get the COVID-19 vaccine if I am immunocompromised,67
+what precautions should I take if I am immunocompromised and want to get vaccinated,Should I get the COVID-19 vaccine if I am immunocompromised,67
+If I already have antibodies do I still need the vaccine?,Should I get the vaccine if I've tested positive for antibodies?,68
+I have Coronavirus antibodies will I still need to get the vaccine?,Should I get the vaccine if I've tested positive for antibodies?,68
+"I tested positive for antibodies, do I need the vaccine?",Should I get the vaccine if I've tested positive for antibodies?,68
+If I had Covid has my body built immunity against the disease?,Should people that had COVID get the vaccine?,21
+"I had covid already, what happens to me if I get the shot",Should people that had COVID get the vaccine?,21
+"I didn't know that covid repeats once you've been sick, but is the vaccine necessary?",Should people that had COVID get the vaccine?,21
+I think it is a good option to get the vaccine as long as it is reliable,Should people that had COVID get the vaccine?,21
+"If a person is already sick with covid, should they be vaccinated as well?",Should people that had COVID get the vaccine?,21
+people who contracted covid should get vaccinated?,Should people that had COVID get the vaccine?,21
+what Side effects  will be on my body?,Side effects and adverse reactions worry me,22
+"Vaccines in certain people tend to produce some side effects, are these effects controllable if they happen?",Side effects and adverse reactions worry me,22
+tell me about the side effects,Side effects and adverse reactions worry me,22
+Reactions can be worse than Covid,Side effects and adverse reactions worry me,22
+Reading too much side effects delays  contentment towards vaccine,Side effects and adverse reactions worry me,22
+Will the Covid side effects go away without needing a doctors care?,Side effects and adverse reactions worry me,22
+It is a genuine concern that the vaccine was not tested sufficiently to verify its safety.,Side effects and adverse reactions worry me,22
+When will there vaccine available,Tell me about the vaccine,121
+what can you tell me about the vaccine,Tell me about the vaccine,121
+I hope the cure is not worse than the disease with damage to us,Tell me about the vaccine,121
+The vaccine is dangerous?,The COVID vaccine is not safe,23
+It isnt possible to know what the long term safety  concerns of the vaccine are since it is so new.,The COVID vaccine is not safe,23
+Are they all safe,The COVID vaccine is not safe,23
+are vaccines safe?,The COVID vaccine is not safe,23
+is safe?,The COVID vaccine is not safe,23
+is the vaccine safe ?,The COVID vaccine is not safe,23
+is the vaccine reliable?,The COVID vaccine is not safe,23
+its vaccine safe ?,The COVID vaccine is not safe,23
+"I don't see the point of getting vaccinated, covid just kills old people and not all that many of them.","The mortality rate of COVID-19 is low, why should I get the vaccine?",93
+Covid-19 has low death rates compared to Sars or Ebola so why should I bother to get vaccinated.,"The mortality rate of COVID-19 is low, why should I get the vaccine?",93
+Why should I get the vaccine?,"The mortality rate of COVID-19 is low, why should I get the vaccine?",93
+"If the vaccine contains fetal parts, I will not get it",The vaccine includes fetal tissue or abortion by-products,69
+"I dont believe in abortion so my pastor says I should not get the vaccine, its sacrilegious.",The vaccine includes fetal tissue or abortion by-products,69
+I think they put anything into these vaccines including fetal tissue and abortion by products,The vaccine includes fetal tissue or abortion by-products,69
+I think this vaccines should not be mandatory in any state,The vaccine should not be mandatory,24
+Its nor right to force someone to take it,The vaccine should not be mandatory,24
+"You must decide whether to get vaccinated or not, it should be a non-mandatory choice",The vaccine should not be mandatory,24
+its obligatory,The vaccine should not be mandatory,24
+Covid death rates don't justify mandatory vaccination it's not ebola where you have only 10% chance of survival.,The vaccine should not be mandatory,24
+"How can the government make me have to do this, what about my rights",The vaccine should not be mandatory,24
+Surely the vaccine cant be safe its been manufactured far too quick to have stringent testing,The vaccine was rushed,70
+Is the vaccine worth getting since it was rushed?,The vaccine was rushed,70
+the vaccine might not work properly because they made it so quick,The vaccine was rushed,70
+"These deaths will continue or the vaccine if it worked, because I have read that vaccines are not eternal, you must be vaccinating once a year and my question is, will the pharmaceutical companies have the capacity to produce so many vaccines annually?",There are many reports of severe side effects or deaths from the vaccine,94
+what is the risk of getting vaccinated,There are many reports of severe side effects or deaths from the vaccine,94
+it is necessary to get the vaccine to avoid getting covid,There are many reports of severe side effects or deaths from the vaccine,94
+It is continuously reported that people are suffering severe vaccine side effects and some are dying.,There are many reports of severe side effects or deaths from the vaccine,94
+Thousands of people have died,There are many reports of severe side effects or deaths from the vaccine,94
+Has the vaccine caused any deaths?,There are many reports of severe side effects or deaths from the vaccine,94
+Are there any number of people who died after getting the vaccine?,There are many reports of severe side effects or deaths from the vaccine,94
+I don't want to get the vaccine because it will be used to insert a trackable microchip into me.,They will put a chip/microchip to manipulate me,26
+microchip in vaccines,They will put a chip/microchip to manipulate me,26
+There is a rumor going around saying there is no vaccine that they are putting chips/microchips inside people to manipulate them.,They will put a chip/microchip to manipulate me,26
+Will the vaccine have a chip to spy on me?,They will put a chip/microchip to manipulate me,26
+"Are we taking a risk having the Covid vaccine, anything could be added to it such as microchips that could seriously compromise all of us.",They will put a chip/microchip to manipulate me,26
+they will put a chip/microchip to manipulate me,They will put a chip/microchip to manipulate me,26
+Who reports negative side effects?  My doctor?  The pharmacy?,Vaccine side effects are not getting reported,71
+they are hiding the side effects so they dont get reported,Vaccine side effects are not getting reported,71
+Vaccine side effects are not getting reported,Vaccine side effects are not getting reported,71
+Were animals used to test the COVID-19 vaccines?,Were the COVID-19 vaccines tested on animals?,145
+Have they been tested on animals?,Were the COVID-19 vaccines tested on animals?,145
+Was the vaccine used in animals?,Were the COVID-19 vaccines tested on animals?,145
+is the vaccine really bad for my period?,What about reports of abnormal periods due to the vaccine?,119
+is it dangerous to take the vaccine?,What about reports of abnormal periods due to the vaccine?,119
+Will my teenage daughter's period be affected by the vaccine?,What about reports of abnormal periods due to the vaccine?,119
+How can having covid19 affect me in the future?,What are the effects of long COVID?,104
+what would happen to me after I got covid?,What are the effects of long COVID?,104
+What are the long-term impacts of COVID?,What are the effects of long COVID?,104
+prolonged covid would bring me strong problems?,What are the effects of long COVID?,104
+What are the side effects,What are the side effect of the vaccine?,100
+what is the common side effect after taking this vaccine ?,What are the side effect of the vaccine?,100
+Are there any side affects after taking this vaccine ?,What are the side effect of the vaccine?,100
+What are the side effects booster shots can cause?,What are the side effects of booster shots?,170
+Do booster shots have side effects?,What are the side effects of booster shots?,170
+Is there any side effects of booster shots?,What are the side effects of booster shots?,170
+What are the side effects in my child of the covid vaccine,What are the side effects of the vaccine in children?,146
+does children have side effects for the vaccine?,What are the side effects of the vaccine in children?,146
+Is using the chatbot a good way of finding out information about the Covid-19 vaccine.,What can this chatbot do?,27
+What is the aims of this chatbot,What can this chatbot do?,27
+Can the chatbot answer all my questions about my doubts about having the Covid-19 vaccine.,What can this chatbot do?,27
+I want to get more familiar with the vaccines?,What can you tell me about COVID-19 vaccines?,116
+vaccines have allergic reactions?,What can you tell me about COVID-19 vaccines?,116
+what can you explain about covid-19?,What can you tell me about COVID-19 vaccines?,116
+"If I have already had COVID-19 and recovered, do I still need to get vaccinated with a COVID-19 vaccine?",What can you tell me about COVID-19 vaccines?,116
+how to get my vaccination record,What do I do if I lose my COVID-19 vaccination card?,134
+Where should I go if I lose my vaccination card?,What do I do if I lose my COVID-19 vaccination card?,134
+why is it mandatory to place it,What do I do if I lose my COVID-19 vaccination card?,134
+How do you know if the vaccine is working?,What does vaccine efficacy mean?,72
+How efficient the vaccine is is a reasonable doubt due to its fast of development.,What does vaccine efficacy mean?,72
+Can you explain efficacy ?,What does vaccine efficacy mean?,72
+Will the school be prepared to be prepared to face a case of Covid?,What happens if there is a COVID-19 case at my child's school?,174
+What should we do if there is Covid-19 case in my child's school?,What happens if there is a COVID-19 case at my child's school?,174
+What should I do if I get exposed and have had a vaccine?,What if I still get infected even after receiving the vaccine?,73
+If I get Covid after both doses of the vaccine does that mean I have the new strain and will get really sick?,What if I still get infected even after receiving the vaccine?,73
+What is the point of having the vaccine if you can still fall ill from the virus after having it?,What if I still get infected even after receiving the vaccine?,73
+Is it possible to still get infected even after receiving the vaccine?,What if I still get infected even after receiving the vaccine?,73
+Does the vaccine have any effect if I still get infected afterwards?,What if I still get infected even after receiving the vaccine?,73
+Does convalescent plasma have a bad relation with the vaccine?,What if I've been treated with convalescent plasma?,74
+what are the effects if i have had convalescent plasma,What if I've been treated with convalescent plasma?,74
+What happens if I have had convalescent plasma treatment?,What if I've been treated with convalescent plasma?,74
+"If I am taking monoclonal antibodies treatment, could the vaccine have negative effects on me?",What if I've been treated with monoclonal antibodies?,75
+Will it be a problem having the vaccine if I have been treated with monoclonal antibodies?,What if I've been treated with monoclonal antibodies?,75
+What if I've been treated with monoclonal antibodies?,What if I've been treated with monoclonal antibodies?,75
+what is Ivermectin consisted of?,What is Ivermectin?,161
+what is Ivermectin and what is its use?,What is Ivermectin?,161
+What is Ivermectin?,What is Ivermectin?,161
+Does using ivermectin against covid 19 have any side effects?,What is Ivermectin?,161
+"I want to find out my ivermectin, what is it?",What is Ivermectin?,161
+what are the ingredients of the vaccine?,What is in the vaccine?,28
+what is in the vaccine,What is in the vaccine?,28
+what is vaccine,What is in the vaccine?,28
+What is this vaccine made of?,What is in the vaccine?,28
+Where can I get information about the components of the vaccine?,What is in the vaccine?,28
+What is in the vaccine? what does this vaccine in my body?,What is in the vaccine?,28
+what are the ingredients,What is in the vaccine?,28
+Where can I find out about mRNA?,What is mRNA?,76
+Can you tell me what mRNA is?,What is mRNA?,76
+I would like to know what mRNA is?,What is mRNA?,76
+how strong is the j & j vaccine?,What is the J&J vaccine?,148
+What is the J&J vaccine made of?,What is the J&J vaccine?,148
+I want to know more about the modern vaccine,What is the Moderna vaccine?,149
+what is the moderna vaccine for?,What is the Moderna vaccine?,149
+the omciron is very dangerous?,What is the Omicron variant?,179
+the omicron is dangerous for the most youngest?,What is the Omicron variant?,179
+what do we know about omciron variant,What is the Omicron variant?,179
+I don't know what is the omciron,What is the Omicron variant?,179
+what is the omricon variant and how dangerous is the vaccine?,What is the Omicron variant?,179
+What about the omciron variant?,What is the Omicron variant?,179
+what about the South african variant,What is the Omicron variant?,179
+What about the omciron?,What is the Omicron variant?,179
+how strong is the pfizer vaccine?,What is the Pfizer vaccine?,150
+What is the Pfizer vaccine?,What is the Pfizer vaccine?,150
+What about delta variant?,What is the delta variant?,147
+What is the delta varient,What is the delta variant?,147
+"mRNA vaccines don't use a live virus, viral vector vaccines use a harmless virus as a delivery system.",What is the difference between mRNA and viral vector vaccines?,77
+Show me what is different between mRNA and the viral vector vaccines.,What is the difference between mRNA and viral vector vaccines?,77
+How do mRNA and viral vector vaccines differ?,What is the difference between mRNA and viral vector vaccines?,77
+I dont understand the difference berween mrna and viral vector vaccines,What is the difference between mRNA and viral vector vaccines?,77
+some info aboutthe difference between quarantine and isolatio results,What is the difference between quarantine and isolation?,163
+isolated people are at higher risk than those in quarantine,What is the difference between quarantine and isolation?,163
+A 3rd shot and booster completely different or similar?,What is the difference between the third shot and a booster shot?,171
+How do 3rd shot and booster shot differ?,What is the difference between the third shot and a booster shot?,171
+I want to know when my life will get back to normal after Covid-19.,When can I go back to normal life?,78
+Do I have to wait two weeks after being vaccinated before I am considered to be safe?,When can I go back to normal life?,78
+When can I start living normally again after having the vaccine?,When can I go back to normal life?,78
+When can i expect to go back to doing everything i used to,When can I go back to normal life?,78
+do we still have to wear a mask?,Where are we required to wear masks now?,151
+when should we put on the mask?,Where are we required to wear masks now?,151
+what would be the ideal vaccine for me?,Which one of the vaccines should I take?,29
+Now some vaccines have been proved to be more effective than others why are the ones with the lowest effecacy rates still be given.,Which one of the vaccines should I take?,29
+which of the different types of vaccine is better?,Which one of the vaccines should I take?,29
+Can I choose between the vaccines?,Which one of the vaccines should I take?,29
+what vaccine is the best?,Which one of the vaccines should I take?,29
+are there several types of vaccine?,Which vaccines are available?,99
+hello what vaccine is available,Which vaccines are available?,99
+hello I want to know what vaccines are currently available,Which vaccines are available?,99
+What vaccines are available?,Which vaccines are available?,99
+How many vaccines are available and what country are they from?,Which vaccines are available?,99
+What are the commercially available vaccines?,Which vaccines are available?,99
+Where can I go to face-to-face talks to talk about covid?,Who can I talk to about COVID-19 in person?,153
+are any organisations offering personal advice about covid,Who can I talk to about COVID-19 in person?,153
+Let me talk to someone who can actually understand a question.,Who can I talk to about COVID-19 in person?,153
+"I'm only 31 years old and am not a frontline worker, do I qualify to get Pfizer right now?",Who can get the Pfizer vaccine?,152
+Im not sure where I fall in the rollout for Pfizer,Who can get the Pfizer vaccine?,152
+Where do I go for information to see if I will be able to have Pfizer?,Who can get the Pfizer vaccine?,152
+What rules are there to qualify to receive pfizer.,Who can get the Pfizer vaccine?,152
+Who should receive recognition for creating the covid-19 vaccine?,Who developed the vaccine?,98
+Please tell me who it was who made the covid vaccine?,Who developed the vaccine?,98
+Who developed the vaccine?,Who developed the vaccine?,98
+"I am concerned about who are the developers of the vaccine, especially the Chinese vaccine.",Who developed the vaccine?,98
+who developed the vaccine in what country,Who developed the vaccine?,98
+i need to know if i have to get vaccinated under the federal vaccine mandate?.,Who is required to get vaccinated under the federal vaccine mandate?,166
+Who is required to get vaccinated under the federal vaccine mandate?,Who is required to get vaccinated under the federal vaccine mandate?,166
+What would be the legal consequences of not getting the vaccine?,Who is required to get vaccinated under the federal vaccine mandate?,166
+the vaccine will prevent spread,Why are COVID-19 vaccination rates slowing in the U.S.?,131
+Why is the vaccination slow in usa for Covid-19,Why are COVID-19 vaccination rates slowing in the U.S.?,131
+"is this
+slowing down vaccination rates in the US, it must be due to its side effects, for this reason it is terrifying to have a convalescence",Why are COVID-19 vaccination rates slowing in the U.S.?,131
+people believe that the covid does not kill it is pure talkative,Why are COVID-19 vaccination rates slowing in the U.S.?,131
+Why do we need different vaccines?,Why are there different vaccines?,79
+What is the purpose of different vaccines?,Why are there different vaccines?,79
+Explain the reason for different vaccines.,Why are there different vaccines?,79
+It seems unfair I can't have a free flu jab when I can have a free covid one.,Why do I need the COVID vaccine if I don't get immunized for flu,80
+"I never get the flu shot and never get the flu every year, why should COVID be any different?",Why do I need the COVID vaccine if I don't get immunized for flu,80
+What are the chances that after receiving the COVID vaccine I will get sick with the common flu? Is there a risk of getting sick with the common flu?,Why do I need the COVID vaccine if I don't get immunized for flu,80
+Do I really need the COVID  if I don't even get the flu vaccine?,Why do I need the COVID vaccine if I don't get immunized for flu,80
+"If my children don't get sick, why do they have to get vaccinated?",Why do my kids need a vaccine if they're unlikely to get sick with COVID-19?,173
+Why do my kids need a vaccine if they're not face with COVID-19?,Why do my kids need a vaccine if they're unlikely to get sick with COVID-19?,173
+Why inject my children if they are not sick?,Why do my kids need a vaccine if they're unlikely to get sick with COVID-19?,173
+"Finally, the use of face masks is more important in poorly ventilated indoor spaces than outdoors, where the risk of infection is extremely low.",Why do vaccinated people need to wear a mask indoors?,159
+Tell me why I need to wear a mask indoors if I'm vaccinated.,Why do vaccinated people need to wear a mask indoors?,159
+"If enough people get covid the population will develop herd immunity, doesn't that make vaccination unnecessary?",Why do we need the vaccine if we can wait for herd immunity?,81
+Do I really need to get vaccinated or can I wait for herd immunity?,Why do we need the vaccine if we can wait for herd immunity?,81
+"Herd immunity will solve everything, why do we still need the vaccine?",Why do we need the vaccine if we can wait for herd immunity?,81
+It's worth getting vaccinated because it stops you becoming ill even though you can still transmit the virus to others.,Why get vaccinated if I can still transmit the virus?,82
+If i can still give covid to people what is the point of getting the vaccine,Why get vaccinated if I can still transmit the virus?,82
+What is the point of having the vaccine if I can still transmit the virus to others?,Why get vaccinated if I can still transmit the virus?,82
+"The fact that astrazeneca has not yet been approved in the United States makes me doubt, why has it not yet been approved?",Why is AstraZeneca not approved in the USA?,112
+Why wasn't AstraZeneca approved in the US?,Why is AstraZeneca not approved in the USA?,112
+Why should I believe in you,Why should I trust you?,154
+What makes you think I should put my faith in you?,Why should I trust you?,154
+What happens if I don't get the second dose?,Will 1 dose of vaccine protect me?,83
+"Which is more effective, one dose of the vaccine or 2?",Will 1 dose of vaccine protect me?,83
+with those 2 doses I am totally immune?,Will 1 dose of vaccine protect me?,83
+Is it possible that a booster shot will be necessary?,Will I need a booster shot?,109
+"How long does the immunity last after taking the Pfizer vaccine, will I need regular booster shots?",Will I need a booster shot?,109
+if I had covid you should no longer be vaccinated,Will I need a booster shot?,109
+how many times should i be vaccinated?,Will I need a booster shot?,109
+"If I get the Pfizer vaccine, will I need to have a booster jab in the future?",Will I need a booster shot?,109
+Does getting the vaccine mean they're injecting me with live viruses?,Will I test positive after getting the vaccine?,30
+"I'm worried about testing positive for the virus after getting the coronavirus vaccine, should I be concerned?",Will I test positive after getting the vaccine?,30
+is there a possibility that my results are positive for covid even after applying the covid vaccine?,Will I test positive after getting the vaccine?,30
+Will I test positive after getting the vaccine?,Will I test positive after getting the vaccine?,30
+"If I get the vaccine, will I still pass my COVID test for work?",Will I test positive after getting the vaccine?,30
+What about my children's school responsibilities?,Will my child miss school when they get vaccinated?,157
+Is it necessary for children to stop going to school after being vaccinated?,Will my child miss school when they get vaccinated?,157
+my son may miss school after getting vaccinated,Will my child miss school when they get vaccinated?,157
+Why can't my child get vaccinated without my permission?,Will my child need my permission to get vaccinated?,155
+They say that I must give permission for my child to be vaccinated. Why?,Will my child need my permission to get vaccinated?,155
+how long until we reach herd imunity,Will the US reach herd immunity?,156
+Herd immunity is achievable?,Will the US reach herd immunity?,156
+What are the benefits of getting the vaccine?,Will the vaccine benefit me?,85
+what are the benefits of the vaccine?,Will the vaccine benefit me?,85
+What are the pros and cons of the vaccine?,Will the vaccine benefit me?,85
+"I am trying to become pregnant, will the vaccine hinder my fertility?",Will the vaccine make me sterile or infertile?,86
+Does the vaccine cause sterility or infertility?,Will the vaccine make me sterile or infertile?,86
+Does the vaccine affect your chances of getting pregnant,Will the vaccine make me sterile or infertile?,86
+"there wil be a booster shot for J&J and Moderna , right ?",Will there be a booster shot for J&J and Moderna?,168
+Are there any side effects from the COVID-19 vaccine?,Will there be a booster shot for J&J and Moderna?,168
+the vaccine will create side effects in the carriers of the vaccine,Will vaccination lead to more dangerous variants?,123
+what are the side effects of vaccination?,Will vaccination lead to more dangerous variants?,123
+Could the vaccine prevent me from getting a more dangerous virus?,Will vaccination lead to more dangerous variants?,123
+I don't understand what this disease 'covid' is.,what is covid?,97
+what is covid-19,what is covid?,97
+what should i do against covid?,what is covid?,97
+how deadly is the virus?,what is covid?,97
+covid-19 is fake?,what is covid?,97
+WHAT IS COVID?,what is covid?,97
